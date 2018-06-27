@@ -1,7 +1,4 @@
 #include <arduinoFFT.h>
-
-#include <Adafruit_NeoPixel.h>
-
 #include <Adafruit_NeoPixel.h>
 
  
@@ -10,8 +7,8 @@
 
 #define NUMPIXELS      60
 
-#define LEDS_PIN 5
-#define BUTTON_PIN 3
+#define LEDS_PIN 6
+#define BUTTON_PIN 4
 
 #define MICROPHONE A0
 #define JACK A1
